@@ -5,7 +5,7 @@ import About from "../Components/About";
 
 function AppRouter() {
   return (
-    <Router basename="/Others/Others/React/Gextent.Others.Addon-main/Gextent.Others.Addon-main/example/build">
+    <Router basename="/">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
