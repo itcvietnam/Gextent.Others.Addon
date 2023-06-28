@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Others/Others/React/Gextent.Others.Addon-main/Gextent.Others.Addon-main/example/build/static/css/main.073c9b0a.css",
-    "main.js": "/Others/Others/React/Gextent.Others.Addon-main/Gextent.Others.Addon-main/example/build/static/js/main.b475940a.js",
+    "main.js": "/Others/Others/React/Gextent.Others.Addon-main/Gextent.Others.Addon-main/example/build/static/js/main.b86bed05.js",
     "static/js/787.759e47f1.chunk.js": "/Others/Others/React/Gextent.Others.Addon-main/Gextent.Others.Addon-main/example/build/static/js/787.759e47f1.chunk.js",
     "index.html": "/Others/Others/React/Gextent.Others.Addon-main/Gextent.Others.Addon-main/example/build/index.html",
     "main.073c9b0a.css.map": "/Others/Others/React/Gextent.Others.Addon-main/Gextent.Others.Addon-main/example/build/static/css/main.073c9b0a.css.map",
-    "main.b475940a.js.map": "/Others/Others/React/Gextent.Others.Addon-main/Gextent.Others.Addon-main/example/build/static/js/main.b475940a.js.map",
+    "main.b86bed05.js.map": "/Others/Others/React/Gextent.Others.Addon-main/Gextent.Others.Addon-main/example/build/static/js/main.b86bed05.js.map",
     "787.759e47f1.chunk.js.map": "/Others/Others/React/Gextent.Others.Addon-main/Gextent.Others.Addon-main/example/build/static/js/787.759e47f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b475940a.js"
+    "static/js/main.b86bed05.js"
   ]
 }
