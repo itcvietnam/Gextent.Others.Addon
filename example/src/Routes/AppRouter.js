@@ -4,6 +4,8 @@ import Home from "../Components/Home";
 import About from "../Components/About";
 
 function AppRouter() {
+  return <Home />;
+  /*
   return (
     <Router basename="/">
       <Routes>
@@ -12,6 +14,7 @@ function AppRouter() {
       </Routes>
     </Router>
   );
+  */
 }
 
 export default AppRouter;
