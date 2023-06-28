@@ -1,11 +1,11 @@
 import React, { Fragment } from "react";
 
-function Home() {
+function About() {
   return (
     <Fragment>
-      <h1>HOME</h1>
+      <h1>ABOUT</h1>
     </Fragment>
   );
 }
 
-export default Home;
+export default About;
